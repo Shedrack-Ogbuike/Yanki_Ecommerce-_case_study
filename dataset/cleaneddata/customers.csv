@@ -1,5 +1,4 @@
 Customer_ID,Customer_Name,Email,Phone_Number
-,,karen64@example.com,001-217-511-0290x8262
 e0d6cb3c-c4b0-4cfe-8225-b65d094d2424,Dominic Buchanan,margaret97@example.com,259.603.6134
 fa3ca35a-5540-404b-a7eb-9001cdcbd840,Daniel Allen,angela55@example.com,+1-869-659-4272x982
 7ad4de53-e6d7-4cd3-99b8-13fb70fe7a34,Daniel Schmidt,wayne59@example.org,292.840.0975x724
@@ -99,7 +98,6 @@ db91ad1d-e70e-425a-ad67-8ecbaef6639f,Wyatt Carroll,milleralexa@example.net,(499)
 b9680fe4-1f64-4487-9dde-56ad5f0b4fd0,Clifford Carroll,courtneywalton@example.org,451-972-1410
 731dbef8-e4d5-4eb5-8345-f75d5ccc9457,Debbie Harris,mendozajessica@example.com,(722)371-7468
 d535b4af-76db-460e-a22e-f1137f169c5d,Dennis Silva,christopher65@example.net,417-233-4196x172
-,,laura04@example.com,853-256-5369x443
 2ef4a6b1-b5e5-4fc8-b289-a9e590165863,Michael Clark,williamswesley@example.net,001-546-333-7614x9104
 18704394-d7e4-4e23-85b4-3390ca5d1710,Mr. Kenneth Oneill,tpatterson@example.com,364-315-6436x034
 74a22756-611c-4774-b8c2-1a2dfb3feb01,Zachary Johnson,richardgraves@example.com,(919)221-1185x3590
@@ -199,7 +197,6 @@ d040270d-cb78-4bb2-938f-4c23837a0efa,Laura Jones,edwardwise@example.net,351.375.
 83af2bf4-469a-46d9-9d5e-c522f4828bf7,Michael Wiley,jthompson@example.com,365.590.3360x50107
 acec45fe-f1bb-483b-bd67-b5c2883f417e,Thomas Dean,beckerjonathan@example.net,473-324-1205x433
 6bc84923-4834-4265-959c-e4ee31f8d7d1,Adam Thompson,ccardenas@example.org,229-559-9850x0285
-,,jacqueline04@example.com,3624029852
 419c2d19-a03f-4b87-887e-dc14faf63b81,Michael Hall,carterpeter@example.net,370.748.7000
 689712c8-8045-48ee-acb1-15ffd7d96015,Erica Brown,zshaffer@example.com,001-766-805-1438x5656
 5a91cb24-7810-4525-af70-c868dc5bb201,Mark Wilson,kturner@example.net,272.737.7070x8011
@@ -299,7 +296,6 @@ fa0e3be2-79de-497c-9ece-5e0eff3a8940,Elizabeth Lopez,sonia42@example.org,(718)60
 b4e18f2c-c15a-400a-85ef-dc78bdbb0514,Amanda Preston,sweeneyjillian@example.com,-4465
 f766af1c-41e7-4dcb-b915-adc3e358ce38,Jason Wagner,larrygarcia@example.org,4147766762
 de84a386-4f64-42fd-bd28-b270b57ef597,Megan Walters,ann27@example.org,+1-416-270-5511x04818
-,,robertjones@example.net,(714)745-3065
 3b800567-dfc5-4d7c-be7d-5e6ee441b3ee,Michelle Duarte,curtisjohnny@example.com,669.516.0275
 7978b668-049f-462f-af25-13ad3481ad4f,Francisco Adams,john16@example.org,764.738.5616x99940
 92614253-d6dc-4516-9000-8c8579136f09,Samantha Archer,kimberly90@example.net,+1-763-788-8740x0871
@@ -399,7 +395,6 @@ d1156a0b-d3c1-4d72-9464-d9da886e4c6a,Anita Flores,adrian13@example.com,-7340
 a9bc82fb-75cd-4425-b265-6907525176d6,Shane Rose,sanchezjenna@example.org,001-661-408-6703x243
 6fbe960d-d39b-4f6f-9a10-4d021723f731,Nicole Lewis,ylandry@example.net,001-373-957-1345
 3f5af135-bad0-49ff-b8c7-db62b613f266,John Sanders,julia28@example.org,465.248.3994x85979
-,,morenogeorge@example.com,375.913.3045
 09db581a-639f-48cc-80df-f3cc99ce5db8,Timothy George,paul02@example.com,+1-378-963-0242x8461
 b8c249b1-c579-4e5e-9bc5-9302b8c67611,Dean Lane,michaelbrown@example.org,(407)809-2922
 daa2bf26-6e28-4cb4-824a-6f344fb67e45,Alison Pena,jbryant@example.net,(793)492-9530
@@ -499,7 +494,6 @@ f0c85f68-8e8a-45d0-9fac-88a221c88cda,Michele Marsh,wgarcia@example.net,327-540-6
 60a4bf5f-adc6-4066-ace9-81fdb4db5073,Donna Gordon,sbooker@example.org,(652)945-2661x8672
 e1b01e1a-0b4a-4765-bd15-306558df4c5d,Keith Martin,cheryl50@example.net,592.930.0099
 69b96efa-42ca-4ac2-8a01-b3011c0a901e,Adam Jordan,dbrown@example.com,(838)698-7318
-,,jennifer06@example.com,001-300-255-6858x845
 d71eda56-87d0-4a78-97c4-2ad308d5efbc,Curtis Berg,vincent93@example.org,987.565.4188
 8d9e94de-efd3-4e84-872b-f66bba8738b5,Melissa Matthews,vaughnjade@example.org,001-865-560-4524x2474
 3eeede9b-b3d1-43eb-88d5-db84b379b690,Daniel Rhodes,hcox@example.org,219.956.8328
@@ -599,7 +593,6 @@ e3c6d791-9687-474f-b6db-a49c61754d59,Nathaniel Gibson,valdeztimothy@example.com,
 0f283dbb-cd9d-418f-b955-dbba4c724b02,Eric White,rramirez@example.org,378.644.3328x151
 01d929f8-252f-4cac-8d5f-6ff1013799ce,Tracy Smith,vyoung@example.org,-1748
 b952bdd6-2177-40d0-8eb0-7183deabd6e6,Jeffrey Bauer,pcook@example.org,-4258
-,,annwest@example.org,321.374.7626x6856
 24e9c833-bebe-4cdc-88aa-edc034f3311a,Peter Mcdonald,ycasey@example.org,680-479-2418x154
 ea0819ae-c2e3-47fb-9f75-900101efbbf2,Deborah Owen,melinda82@example.org,001-373-963-8096x2205
 62a1ce2a-5660-4a2a-84e7-28a17bbf6a3a,Megan Moore,nblankenship@example.org,001-505-201-0656x4346
@@ -699,7 +692,6 @@ f1796c62-28d5-4cd7-8f93-623b19d79a3d,Derek Ford,kennedychristopher@example.com,8
 e3ac8ca4-c0d8-4b92-a74b-f5972c8221dc,Cynthia Hall,evansjacqueline@example.org,(692)378-2537x36484
 a291b56e-a1c0-44fa-954b-beabcda26fda,Jessica Snyder,fordmargaret@example.org,500.697.3219x6800
 00f2dd89-69e0-45a1-8878-03e4f4064904,Oscar Dorsey,obrewer@example.org,+1-712-382-9835x71510
-,,chambersdominique@example.net,(876)505-1355x310
 1e62628e-2af0-49ba-a9a3-6468f41ceafd,Jeffrey Armstrong,barbarabarrera@example.com,+1-329-828-1081x708
 bc7970bb-e8b5-4448-a8e7-8dad529e9200,Brian Shah,lindseymitchell@example.com,653.469.1987x38340
 34fcc882-6444-487d-8e23-a314d169e317,Casey Coleman,sfisher@example.org,001-676-851-9514
@@ -799,7 +791,6 @@ a6dbf68b-715b-4d1c-8984-e77ffef04e83,Jeremy Reed,michelle18@example.net,-6569
 cde1be38-ce61-4b24-82b7-f752822a4305,Kaitlyn Wolf,pagestephanie@example.net,583-318-8932
 51507070-fe7d-431d-8a61-a1490625dcbf,Jean Morrison,kfrank@example.com,(339)978-3236x76554
 f4d9c1f1-a5fa-417c-baf0-79cb02618713,Raymond Davis,ochoaanthony@example.org,001-657-971-6212x27723
-,,bassbrittany@example.com,967-481-2296x52172
 54f1866c-755a-4c97-b34d-a38b4eb76d54,Mr. David Stewart DVM,xatkinson@example.net,364-627-0502x6198
 6c8721bc-4379-47de-8fa6-fd80209f927d,Michelle Lee,pagejason@example.net,(809)895-1278x1072
 5dfaf067-827e-494c-b657-58a918080cdf,Tina Curtis,dominique30@example.net,272.298.8690
@@ -899,7 +890,6 @@ ea3b06d5-63fe-4b35-910b-d2c9b01bcf49,Donald Pearson,atkinsaustin@example.com,001
 e69f1750-9c17-41ce-ae84-233545dbd1ca,Jonathan Shields,vmclaughlin@example.com,(507)862-9791x2889
 9d147e27-1d2e-49e5-9fe6-449c46e7229c,David Johnson,michael38@example.org,(539)586-1729
 a4f9d5b6-3f21-49c9-8fb0-00843aec6c2c,Julie Lawson,hcoleman@example.org,-7384
-,,markgeorge@example.net,+1-802-800-5601x31036
 033e5b61-cc2b-4c4f-babd-d91d77a3402b,Steven Patterson,vanessa19@example.com,459-914-7062x4235
 eb102650-450a-4535-9025-e3d4152d774f,Kevin Harris,hfowler@example.net,942-532-0234x062
 23ed4faf-5072-4d0b-9c35-ff0133aa6782,Ellen Solis,robert56@example.net,688.634.7275x62033

@@ -1,5 +1,4 @@
 Order_ID,Payment_Method,Transaction_Status
-,Credit Card,completed
 e32af09a-b6ab-497e-af3a-331e4d4ed6e7,Debit Card,completed
 86eb8859-14ab-4d4e-9267-c5826f4e0c8e,Credit Card,completed
 7379b560-8897-4623-92a2-523ddcdc43a1,PayPal,pending
@@ -99,7 +98,6 @@ bc3a23aa-3ae4-4c89-a5ae-a13c61a866b3,Debit Card,completed
 622afd4b-90cb-4664-8163-94bd3f1a9c49,Debit Card,pending
 07fc8a1e-7a1f-4ec9-b51c-9191ecd7d909,Credit Card,completed
 8046ca18-62bd-4535-81bb-bf0dc3713a9a,Debit Card,pending
-,PayPal,completed
 d0d7abf0-c1c2-4f23-8916-d15d5bdd0d55,Credit Card,completed
 8b319197-3ce7-4ce7-8ccd-325a3c215fd1,Debit Card,completed
 dfb71ec8-0db1-4383-9d87-4dc8a86fd451,Debit Card,completed
@@ -199,7 +197,6 @@ aba764d3-1924-40fe-b104-c42803bc680a,Credit Card,completed
 2f201581-c63b-420a-a1f7-60be8953c85b,Credit Card,completed
 9dc28170-d075-43e2-b411-8d58ab0dd99f,Debit Card,pending
 896ed392-dd11-4a3e-8e1a-b822ff9b0278,Credit Card,completed
-,PayPal,pending
 4e997e06-9f6d-4bf5-8c2b-7daeb8092e14,PayPal,completed
 70c64ead-8a7a-464b-88bc-672efb07e0f2,PayPal,pending
 88fef3a8-eb93-4797-bb6e-e74bbb82c56f,Credit Card,pending
@@ -299,7 +296,6 @@ cb41cb71-eff6-4053-8938-02d04ee8b7ac,Credit Card,completed
 30ee64dc-a1d4-4f63-af48-41f3549139e2,Credit Card,completed
 ad222114-c3bd-49a4-9e2b-e38e372267cd,PayPal,completed
 bfe8b8bf-369a-4b0c-ba0f-556ca9c4160c,Credit Card,completed
-,Debit Card,pending
 14b8c658-0a59-4b47-ad95-894828d825ea,PayPal,pending
 bc1499f5-1408-4408-9ea8-6c4c1f2b0122,Credit Card,completed
 0e65a433-8972-4693-860a-a161f4473d5e,Debit Card,pending
@@ -795,7 +791,6 @@ a912991f-9e8d-4cbc-b094-ac3c2ce02f98,Credit Card,pending
 737f5fa3-9c4a-4c18-b11b-3740634a20bb,Credit Card,completed
 26350723-8d9b-4f20-91ed-b0281190b9b4,PayPal,completed
 edb31ba1-bd1b-4b41-a1ac-3b682bcce73f,PayPal,pending
-,Debit Card,completed
 fcfe7f8e-5380-4063-8abe-eebe76f9c11b,Credit Card,completed
 dd6368b6-7b06-4319-a7cf-9acb04acce53,PayPal,pending
 51186c03-0e82-4bc0-a5b2-c595e3e078d2,Debit Card,completed
